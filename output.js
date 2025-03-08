@@ -1,4 +1,4 @@
-//Thu Mar 06 2025 07:41:56 GMT+0000 (Coordinated Universal Time)
+//Sat Mar 08 2025 12:17:19 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("甬派");
