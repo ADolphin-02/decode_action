@@ -14,6 +14,7 @@ const ac = b,
     a3 = ad(0x15b),
     a4 = console;
 let a5;
+
 const a6 = process[af(0xd)][a3] || '',
     a7 = process[af(0xd)][ac(0xc7)] || '8';
 let a8 = process[af(0xd)][ae(0x22)] || -0x2398 + -0x160b + -0xb87 * -0x5;
